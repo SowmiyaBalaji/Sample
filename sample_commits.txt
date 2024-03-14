@@ -1,6 +1,6 @@
 Hi this is commit one I am adding an extra line
 This is an extra line
-This is to check how merge works from main
+This is to check how merge conflicts from main
 
  
 
